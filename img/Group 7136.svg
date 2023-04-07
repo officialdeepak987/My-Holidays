@@ -1,0 +1,9 @@
+<svg id="Group_7136" data-name="Group 7136" xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+  <circle id="Ellipse_596" data-name="Ellipse 596" cx="28.5" cy="28.5" r="28.5" fill="rgba(15,175,82,0.1)"/>
+  <circle id="Ellipse_597" data-name="Ellipse 597" cx="20.5" cy="20.5" r="20.5" transform="translate(8 8)" fill="rgba(15,175,82,0.1)"/>
+  <g id="headphone" transform="translate(20.58 18.601)">
+    <g id="Group_5749" data-name="Group 5749">
+      <path id="Icon_feather-shield" data-name="Icon feather-shield" d="M13.92,22.8s7.92-3.96,7.92-9.9V5.97L13.92,3,6,5.97V12.9C6,18.84,13.92,22.8,13.92,22.8Z" transform="translate(-6 -3)" fill="none" stroke="#0faf52" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

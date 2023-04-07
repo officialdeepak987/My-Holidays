@@ -1,0 +1,9 @@
+<svg id="Group_7139" data-name="Group 7139" xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+  <circle id="Ellipse_945" data-name="Ellipse 945" cx="28.5" cy="28.5" r="28.5" fill="rgba(255,193,7,0.1)"/>
+  <circle id="Ellipse_946" data-name="Ellipse 946" cx="20.5" cy="20.5" r="20.5" transform="translate(8 8)" fill="rgba(255,193,7,0.2)"/>
+  <g id="headphone" transform="translate(18.6 18.601)">
+    <g id="Group_5749" data-name="Group 5749">
+      <path id="Path_23511" data-name="Path 23511" d="M9.9,0C4.441,0,0,4.845,0,10.8v4.95a.45.45,0,0,0,.45.45H1.8V18a1.8,1.8,0,0,0,1.8,1.8H4.95a.45.45,0,0,0,.45-.45v-8.1a.45.45,0,0,0-.45-.45H3.6a1.8,1.8,0,0,0-1.8,1.8V10.8c0-4.963,3.634-9,8.1-9s8.1,4.037,8.1,9v1.8a1.8,1.8,0,0,0-1.8-1.8H14.85a.45.45,0,0,0-.45.45v8.1a.45.45,0,0,0,.45.45H16.2A1.8,1.8,0,0,0,18,18V16.2h1.35a.45.45,0,0,0,.45-.45V10.8C19.8,4.845,15.359,0,9.9,0Z" fill="#ffd740"/>
+    </g>
+  </g>
+</svg>
